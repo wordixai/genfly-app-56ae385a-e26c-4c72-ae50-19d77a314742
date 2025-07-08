@@ -53,7 +53,7 @@ const Index = () => {
             <div className="flex items-center space-x-4">
               <Menu className="h-6 w-6 md:hidden" />
               <h1 className="text-3xl font-black text-black transform -rotate-2 comic-font">
-                POP SHOP !
+                POP SHOP!
               </h1>
             </div>
             
@@ -101,7 +101,7 @@ const Index = () => {
       <section className="relative z-10 py-16 px-4">
         <div className="container mx-auto">
           <h3 className="text-4xl md:text-6xl font-black text-center text-white mb-12 comic-font text-shadow">
-            HOT PICKS! 🔥
+            HOT PICKS! 🔥-test
           </h3>
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
